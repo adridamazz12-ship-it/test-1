@@ -1,0 +1,9 @@
+head {
+    background-color: #ff0000
+    text-align: center
+}
+
+.foto {
+    display: block;
+    margin: 0 auto;
+}
